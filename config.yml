@@ -17,3 +17,5 @@ workflows:
       - print_world:
           requires:
             - print_hello
+          dhdskk d
+          dnd
